@@ -12,4 +12,4 @@ I have used these techniques on two datasets:
 - The Digits Dataset from sklearn
 - MNIST Dataset - The "Hello World" of Computer Vision
 
-![Image of Yaktocat](https://drive.google.com/file/d/16mGvf1mqRbbUKGl6C6X-RrShPsSAWAlj/view?usp=sharing)
+![Image of Yaktocat](https://github.com/KhyatiMahendru/Dimensionality-Reduction/blob/master/mnist%20digits.png)
